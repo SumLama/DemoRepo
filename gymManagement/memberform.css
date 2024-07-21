@@ -1,0 +1,9 @@
+S.form-control {
+    box-shadow: 0 0 0.2rem rgb(37, 32, 32); /* Change the color here */
+    border: rgb(155, 149, 149);
+    /* Other styles you may want to modify */
+  }
+  .form-check-input:checked,:focus{
+  background-color: black;
+  border:rgb(9, 4, 4);
+  }

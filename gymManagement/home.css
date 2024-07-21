@@ -1,0 +1,19 @@
+.setBackground{
+   background-image: url("./images/gym1.avif");
+   height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: sticky;
+}
+#buttonset{
+  position:absolute; 
+  top:50%;
+  left:15%;
+}
+
+img{
+  height:150px;
+  width:200px;
+}
+
